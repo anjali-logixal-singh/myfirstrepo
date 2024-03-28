@@ -1,0 +1,34 @@
+{
+  "region1": [
+    {
+      "title": "xx",
+      "description": "yyy",
+      "size": 6,
+      "component": "BreadCrumb",
+      "componentType": "Breadcrumb",
+      "reqtype": true,
+      "moduletype": "BASE",
+      "storetype": "CT",
+      "regionType": "region1",
+      "row": 1,
+      "cols": 1,
+      "colsWidth": "1",
+      "isLazy": true,
+      "isEnable": true
+    },
+    {
+      "title": "xx",
+      "description": "yyy",
+      "size": 6,
+      "component": "ProductGrid",
+      "componentType": "ProductGrid",
+      "moduletype": "CT",
+      "regionType": "region1",
+      "row": 2,
+      "cols": 1,
+      "colsWidth": "1",
+      "isLazy": true,
+      "isEnable": true
+    }
+  ]
+}
