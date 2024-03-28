@@ -1,0 +1,46 @@
+{
+  "type": "textOnly",
+  "title": "Shipment",
+  "description": "Welcome to EStore Inc's Shipping Policy page. At EStore Inc, we are committed to providing you with a seamless shipping experience. This Shipping Policy outlines our practices concerning the shipment, delivery, and tracking of your orders. By placing an order with us, you agree to the terms of this Shipping Policy.",
+  "details": [
+    {
+      "title": "Shipping Methods",
+      "description": "We offer various shipping methods to suit your needs, including standard shipping, expedited shipping, and international shipping."
+    },
+    {
+      "title": "Delivery Times",
+      "description": "Delivery times may vary depending on the shipping method selected and your location. We strive to deliver your orders in a timely manner and provide estimated delivery dates during checkout."
+    },
+    {
+      "title": "Order Tracking",
+      "description": "Once your order has been shipped, you will receive a tracking number via email or SMS. You can use this tracking number to monitor the status and location of your package."
+    },
+    {
+      "title": "Shipping Costs",
+      "description": "Shipping costs are calculated based on the weight of your order, the shipping method selected, and your delivery address. You can view the shipping costs for your order during checkout."
+    },
+    {
+      "title": "Shipping Restrictions",
+      "description": "Some items may be subject to shipping restrictions due to size, weight, or regulatory requirements. We will notify you if any restrictions apply to your order."
+    },
+    {
+      "title": "Shipping Address",
+      "description": "Please ensure that your shipping address is accurate and up-to-date to prevent any delays or delivery issues. We are not responsible for orders shipped to incorrect or incomplete addresses."
+    },
+    {
+      "title": "Shipping Damage or Loss",
+      "description": "In the rare event that your order is damaged during shipping or lost in transit, please contact our customer support team immediately. We will work with the shipping carrier to resolve the issue and ensure a satisfactory outcome."
+    },
+    {
+      "title": "International Shipping",
+      "description": "For international orders, additional customs duties, taxes, and fees may apply. These charges are the responsibility of the recipient and are not included in the order total or shipping costs."
+    },
+    {
+      "title": "Contact Us",
+      "description": "If you have any questions or concerns regarding our Shipping Policy or the shipment of your order, please contact us at [contact email/phone number]. Our customer support team is here to assist you."
+    },
+    {
+      "description": "Thank you for choosing EStore Inc. We appreciate your business and are committed to ensuring that your orders are shipped safely and efficiently."
+    }
+  ]
+}
