@@ -1,0 +1,50 @@
+{
+  "region1": [
+    {
+      "title": "xxx",
+      "description": "yyy",
+      "size": 6,
+      "component": "BreadCrumb",
+      "componentType": "Breadcrumb",
+      "reqtype": true,
+      "moduletype": "BASE",
+      "storetype": "CT",
+      "regionType": "region1",
+      "row": 1,
+      "cols": 1,
+      "colsWidth": "100",
+      "isLazy": true,
+      "isEnable": true
+    },
+    {
+      "title": "xxx",
+      "description": "yyy",
+      "size": 6,
+      "component": "ProductFilter",
+      "componentType": "ProductFilter",
+      "reqtype": true,
+      "moduletype": "BASE",
+      "storetype": "CT",
+      "regionType": "region1",
+      "row": 2,
+      "cols": 1,
+      "colsWidth": "20",
+      "isLazy": true,
+      "isEnable": true
+    },
+    {
+      "title": "xx",
+      "description": "yyy",
+      "size": 6,
+      "component": "ProductGrid",
+      "componentType": "ProductGrid",
+      "moduletype": "CT",
+      "regionType": "region1",
+      "row": 2,
+      "cols": 1,
+      "colsWidth": "70",
+      "isLazy": true,
+      "isEnable": true
+    }
+  ]
+}
