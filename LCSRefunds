@@ -1,0 +1,42 @@
+{
+  "type": "textOnly",
+  "title": "Refunds Policy",
+  "description": "Welcome to EStore Inc's Refunds Policy page. At EStore Inc, we strive to provide you with a seamless shopping experience, including hassle-free returns and refunds. This Refunds Policy outlines our practices concerning refunds, returns, and exchanges. By making a purchase from us, you agree to the terms of this Refunds Policy.",
+  "details": [
+    {
+      "title": "Refund Eligibility",
+      "description": "To be eligible for a refund, the item must be unused, in its original packaging, and in the same condition as when you received it. Certain products may be ineligible for refunds, such as perishable goods or personalized items."
+    },
+    {
+      "title": "Refund Process",
+      "description": "To request a refund, please contact our customer support team within [number] days of receiving your order. Our team will guide you through the refund process and provide you with instructions on returning the item."
+    },
+    {
+      "title": "Refund Methods",
+      "description": "Refunds are typically issued to the original payment method used for the purchase. Depending on your payment provider, it may take some time for the refund to be processed and reflected in your account."
+    },
+    {
+      "title": "Return Shipping",
+      "description": "If you are returning an item for a refund, you may be responsible for return shipping costs unless the return is due to an error on our part or a defective product. We recommend using a trackable shipping service to ensure that your return is received."
+    },
+    {
+      "title": "Refund Status",
+      "description": "Once your return is received and inspected, we will notify you of the approval or rejection of your refund. If approved, your refund will be processed, and a credit will be applied to your original method of payment."
+    },
+    {
+      "title": "Exchanges",
+      "description": "If you would like to exchange an item for a different size, color, or style, please contact our customer support team. We will assist you in processing the exchange and provide you with further instructions."
+    },
+    {
+      "title": "Refund Exceptions",
+      "description": "Some items may not be eligible for refunds or may be subject to restocking fees. These exceptions will be clearly stated at the time of purchase or in our Terms of Service."
+    },
+    {
+      "title": "Contact Us",
+      "description": "If you have any questions or concerns regarding our Refunds Policy or need assistance with a refund or return, please contact us at [contact email/phone number]. Our dedicated customer support team is here to help."
+    },
+    {
+      "description": "Thank you for shopping at EStore Inc. We value your satisfaction and are committed to ensuring that you are completely satisfied with your purchases."
+    }
+  ]
+}
