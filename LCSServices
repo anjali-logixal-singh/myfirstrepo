@@ -1,0 +1,47 @@
+{
+    "type": "textOnly",
+    "title": "Our Services",
+    "description": "Discover the range of services offered by EStore Inc to enhance your shopping experience. From seamless order processing to personalized recommendations, we strive to provide you with top-notch service at every step.",
+    "details": [
+        {
+            "title": "Order Processing",
+            "description": "Efficiently process and fulfill your orders ensuring timely delivery and customer satisfaction."
+        },
+        {
+            "title": "Personalized Recommendations",
+            "description": "Leverage our advanced algorithms to receive product recommendations tailored just for you, based on your preferences and purchase history."
+        },
+        {
+            "title": "Customer Support",
+            "description": "Our dedicated support team is available around the clock to assist with any queries, concerns, or feedback you may have."
+        },
+        {
+            "title": "Secure Payment Gateway",
+            "description": "Experience peace of mind with our secure payment gateway ensuring your transactions are safe and protected."
+        },
+        {
+            "title": "Fast & Reliable Shipping",
+            "description": "Enjoy our fast and reliable shipping options, ensuring your orders reach you in the shortest possible time."
+        },
+        {
+            "title": "Easy Returns & Exchanges",
+            "description": "Our hassle-free return and exchange policy make it simple for you to shop with confidence."
+        },
+        {
+            "title": "Product Reviews & Ratings",
+            "description": "Make informed decisions by reading authentic reviews and ratings from our community of shoppers."
+        },
+        {
+            "title": "Track Your Order",
+            "description": "Stay updated on the status of your order with our real-time tracking feature."
+        },
+        {
+            "title": "Exclusive Deals & Promotions",
+            "description": "Benefit from exclusive deals, discounts, and promotions available only for our loyal customers."
+        },
+        {
+            "title": "Gift Wrapping & Personal Messages",
+            "description": "Add a personal touch to your gifts with our premium gift wrapping and personalized message services."
+        }
+    ]
+}
