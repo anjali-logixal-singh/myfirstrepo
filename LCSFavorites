@@ -1,0 +1,34 @@
+{
+"type": "textOnly",
+"title": "Favorites",
+"description": "Welcome to EStore Inc's Favorites page. Here, you can curate your personalized collection of favorite products from our vast inventory. At EStore Inc, we understand that shopping is not just about finding great products but also about creating a tailored shopping experience. Explore our Favorites feature and discover your new must-have items.",
+"details": [
+{
+"title": "Why Use EStore Inc's Favorites Feature?",
+"description": "With EStore Inc's Favorites feature, you can easily keep track of products you love and wish to revisit later. Whether you're building a wishlist, planning future purchases, or simply bookmarking items for quick access, our Favorites feature makes it convenient to organize and manage your preferences."
+},
+{
+"title": "Curate Your Collection",
+"description": "Create a curated collection of your favorite products from EStore Inc's extensive catalog. Whether it's fashion items, electronics, home decor, or any other product category, simply click the 'Add to Favorites' button to build your personalized collection of must-have items."
+},
+{
+"title": "Access Anytime, Anywhere",
+"description": "Access your list of favorite products anytime, anywhere, with EStore Inc's convenient Favorites feature. Whether you're browsing on your computer, tablet, or smartphone, your curated collection is always just a click away. Enjoy seamless access to your favorite items whenever inspiration strikes."
+},
+{
+"title": "Share with Friends and Family",
+"description": "Share your curated collection of favorite products with friends and family. Whether you're seeking gift ideas, soliciting opinions, or simply sharing your favorite finds, EStore Inc makes it easy to share your Favorites list via email, social media, or messaging platforms."
+},
+{
+"title": "How to Use the Favorites Feature",
+"description": "Ready to start curating your collection? Explore our step-by-step guide on how to use the Favorites feature effectively. Learn how to add and remove items, create multiple lists, and organize your Favorites for a personalized shopping experience tailored to your preferences."
+},
+{
+"title": "FAQs",
+"description": "Have questions about using the Favorites feature? Check out our frequently asked questions section for answers to common queries. Whether you're unsure about how to add items to your Favorites list or need assistance with managing your collection, our FAQs provide helpful guidance."
+},
+{
+"description": "Thank you for using EStore Inc's Favorites feature to enhance your shopping experience. Start curating your collection of favorite products today and enjoy a personalized shopping journey tailored to your unique tastes and preferences."
+}
+]
+}
