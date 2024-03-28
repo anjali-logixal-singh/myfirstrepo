@@ -1,0 +1,81 @@
+ {
+      "type": "textOnly",
+      "title": "Terms and Conditions",
+      "description": "Welcome to EStore Inc's Terms and Conditions page. These terms govern your use of our website and services. By accessing our website or using our services, you agree to comply with and be bound by these Terms and Conditions. If you do not agree with these terms, please refrain from using our website and services.",
+      "details": [
+        {
+          "title": "Use of the Website",
+          "subPoints": [
+            {
+              "title": "Website Content",
+              "description": "All content on our website, including text, images, videos, and graphics, is the property of EStore lnc and is protected by copyright laws. You may not reproduce, distribute, modify, or use our content without our explicit permission."
+            },
+            {
+              "title": "User Accounts",
+              "description": " When you create an account on our website, you are responsible for maintaining the confidentiality of your account information, including your password. You agree to notify us immediately of any unauthorized use of your account."
+            },
+            {
+              "title": "Prohibited Activities",
+              "description": "You must not engage in any activities that may disrupt or interfere with the functioning of our website, compromise its security, or violate any applicable laws or regulations."
+            }
+          ]
+        },
+        {
+          "title": "Product Purchases and Orders",
+          "subPoints": [
+            {
+              "title": "Product Information",
+              "description": "We strive to provide accurate and up-to-date information about our products, including prices and availability. However, we do not guarantee the accuracy of this information and reserve the right to correct errors or omissions."
+            },
+            {
+              "title": "Order Acceptance",
+              "description": "Your order constitutes an offer to purchase a product. We reserve the right to accept or decline your order for any reason, including limitations on product quantities and inaccuracies in product or pricing information."
+            },
+            {
+              "title": "Communication",
+              "description": "To send you promotional emails, newsletters, and updates about our products and services (you can opt-out of these communications at any time)."
+            },
+            {
+              "title": "Payment",
+              "description": "You agree to provide accurate and complete payment information when placing an order. Payment is due upon order confirmation. We accept various payment methods, and all transactions are processed securely."
+            }
+          ]
+        },
+        {
+          "title": "Returns and Refunds",
+          "description": "Please refer to our Returns and Refi policy for information about our policies regarding returns, exchanges, and refunds."
+        },
+        {
+          "title": "Intellectual Property",
+          "description": "All intellectual property rights related to our website and services, including trademarks, logos, and designs, are owned by EStore Inc. You are prohibited from using our intellectual property without our prior written consent."
+        },
+        {
+          "title": "Limitation of Liability",
+          "subPoints": [
+            {
+              "title": "Disclaimer",
+              "description": "Our website and services are provided on an 'as-is' and 'as available' basis. We make no warranties, express or implied, regarding the accuracy, reliability, or availability of our website."
+            },
+            {
+              "title": "Indemnification",
+              "description": "You agree to indemnify and hold EStore Inc. its affiliates, and its employees harmless from any claims, damages, losses, or expenses arising out of your use of our website or services."
+            }
+          ]
+        },
+        {
+          "title": "Governing Law",
+          "description": "These Terms and Conditions are governed by and construed in accordance with the laws of [Your Jurisdiction]. Any disputes arising from or related to these terms shall be subject to the exclusive jurisdiction of the courts in [Your Jurisdiction]."
+        },
+        {
+          "title": "Changes to Terms and Conditions",
+          "description": "We may update these Terms and Conditions from time to time. Any changes will be effective immediately upon posting. It is your responsibility to review these terms periodically for updates."
+        },
+        {
+          "title": "Contact Us",
+          "description": "If you have any questions, concerns, or requests regarding this Privacy Policy or your personal information, please contact us at [contact email/phone number)."
+        },
+        {
+          "description": "Thank you for choosing EStore Inc. We appreciate your business and look forward to providing you with excellent products and services while ensuring a safe and enjoyable online experience."
+        }
+      ]
+    }
