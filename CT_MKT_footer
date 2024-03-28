@@ -1,0 +1,139 @@
+{
+  "region1": [
+    {
+      "title": "xxx",
+      "description": "yyy",
+      "size": 6,
+      "component": "ImageCarouselData",
+      "componentType": "NewsLetterV2",
+      "datakey": "Promo",
+      "stateVar": "ImageCarouselData",
+      "reqtype": true,
+      "moduletype": "BASE",
+      "storetype": "MOCK",
+      "regionType": "region1",
+      "row": 1,
+      "colWidth": "100",
+      "isLazy": true,
+      "isEnable": true,
+      "reqBody": {
+        "populate[Banner][populate]": "*"
+      }
+    },
+    {
+      "title": "xxx",
+      "description": "yyy",
+      "size": 6,
+      "component": "ImageCarouselData",
+      "componentType": "FooterResponsiveV2",
+      "newsLetter": true,
+      "datakey": "Promo",
+      "stateVar": "ImageCarouselData",
+      "reqtype": true,
+      "moduletype": "BASE",
+      "storetype": "MOCK",
+      "regionType": "region1",
+      "row": 1,
+      "colWidth": "100",
+      "isLazy": true,
+      "isEnable": true,
+      "newsLetterAlign": "left",
+      "isBoutique": false,
+      "reqBody": {
+        "populate[Banner][populate]": "*"
+      }
+    },
+    {
+      "title": "xxx",
+      "description": "yyy",
+      "size": 6,
+      "component": "ImageCarouselData",
+      "componentType": "FooterEvents",
+      "newsLetter": true,
+      "datakey": "Promo",
+      "stateVar": "ImageCarouselData",
+      "reqtype": true,
+      "moduletype": "BASE",
+      "storetype": "MOCK",
+      "regionType": "region1",
+      "row": 1,
+      "colWidth": "100",
+      "isLazy": true,
+      "isEnable": true,
+      "newsLetterAlign": "left",
+      "isBoutique": false,
+      "reqBody": {
+        "populate[Banner][populate]": "*"
+      }
+    },
+    {
+      "title": "xxx",
+      "description": "yyy",
+      "size": 12,
+      "component": "ImageCarouselData",
+      "componentType": "FooterPayment",
+      "newsLetter": true,
+      "datakey": "Promo",
+      "stateVar": "ImageCarouselData",
+      "reqtype": true,
+      "moduletype": "BASE",
+      "storetype": "MOCK",
+      "regionType": "region1",
+      "row": 1,
+      "colWidth": "100",
+      "isLazy": true,
+      "isEnable": true,
+      "newsLetterAlign": "left",
+      "isBoutique": false,
+      "reqBody": {
+        "populate[Banner][populate]": "*"
+      }
+    },
+    {
+      "title": "xxx",
+      "description": "yyy",
+      "size": 6,
+      "component": "ImageCarouselData",
+      "componentType": "FooterContact",
+      "newsLetter": true,
+      "datakey": "Promo",
+      "stateVar": "ImageCarouselData",
+      "reqtype": true,
+      "moduletype": "BASE",
+      "storetype": "MOCK",
+      "regionType": "region1",
+      "row": 1,
+      "colWidth": "100",
+      "isLazy": true,
+      "isEnable": true,
+      "newsLetterAlign": "left",
+      "isBoutique": false,
+      "reqBody": {
+        "populate[Banner][populate]": "*"
+      }
+    },
+    {
+      "title": "xxx",
+      "description": "yyy",
+      "size": 6,
+      "component": "ImageCarouselData",
+      "componentType": "FooterCopyrightV2",
+      "newsLetter": true,
+      "datakey": "Promo",
+      "stateVar": "ImageCarouselData",
+      "reqtype": true,
+      "moduletype": "BASE",
+      "storetype": "MOCK",
+      "regionType": "region1",
+      "row": 1,
+      "colWidth": "100",
+      "isLazy": true,
+      "isEnable": true,
+      "newsLetterAlign": "left",
+      "isBoutique": false,
+      "reqBody": {
+        "populate[Banner][populate]": "*"
+      }
+    }
+  ]
+}
