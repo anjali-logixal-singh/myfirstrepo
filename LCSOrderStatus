@@ -1,0 +1,28 @@
+{
+    "type": "textOnly",
+    "title": "Order Status and Tracking",
+    "description": "At EStore Inc, we understand that sometimes a product may not meet your expectations. That's why we have a hassle-free returns and exchanges policy in place. Read on to know more about our process and guidelines.",
+    "details": [
+        {
+            "title": "In Transit",
+            "description": "Your order is currently in transit. Once dispatched, you will receive a shipping confirmation email with tracking details."
+        },
+        {
+            "title": "trackingInformation",
+            "description": "Track the status of your shipment using the provided tracking number in the shipping confirmation email. Stay updated on the delivery progress through our trusted shipping partners."
+        },
+        {
+            "title": "estimatedDeliveryDate",
+            "description": "The estimated delivery date is included in the shipping confirmation email. Please consider that delivery times may vary based on your location and selected shipping method."
+        },
+        {
+            "title": "returnsAndExchanges",
+            "description": "We offer a hassle-free 30-day return policy from the date of delivery.",
+      "returnProcess": "Initiate the return process online through our portal. Enjoy free returns on eligible items, and opt for an exchange if you prefer a different size or color."
+        },
+        {
+            "title": "needAssistance",
+            "description": "For any inquiries related to your order status, tracking, or general assistance, our dedicated customer support team is ready to help. Reach out to us at [contact email/phone number]."
+        }
+    ]
+}
