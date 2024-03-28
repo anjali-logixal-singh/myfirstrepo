@@ -1,0 +1,30 @@
+{
+    "type": "textOnly",
+    "title": "Support Center",
+    "description": "Welcome to EStore Inc's Support Center. At EStore Inc, we strive to provide you with the best shopping experience. This Support Center offers information and assistance to help you navigate our services. By accessing our website or using our services, you agree to the terms outlined here.",
+    "details": [
+        {
+            "title": "Order Tracking",
+            "description": "Track the status of your order with ease. Visit our Order Tracking page and enter your order number and email address to get real-time updates on your purchase."
+        },
+        {
+            "title": "Returns & Exchanges",
+            "description": "We want you to be completely satisfied with your purchase. Learn about our hassle-free return and exchange policy, including eligibility, process, and timelines, on our Returns & Exchanges page."
+        },
+        {
+            "title": "Shipping Information",
+            "description": "Find all the details you need about shipping, including delivery times, shipping methods, and costs, on our Shipping Information page."
+        },
+        {
+            "title": "Product FAQs",
+            "description": "Got questions about our products? Check out our Product FAQs page for answers to commonly asked questions, product information, and more."
+        },
+        {
+            "title": "Contact Us",
+            "description": "We're here to help! If you have any questions, concerns, or feedback, please don't hesitate to contact us at [contact email/phone number]. Our dedicated customer support team is available to assist you."
+        },
+        {
+            "description": "Thank you for choosing EStore Inc. We value your trust and are committed to providing you with exceptional service. Happy shopping!"
+        }
+    ]
+}
