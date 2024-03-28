@@ -1,0 +1,34 @@
+{
+  "type": "textOnly",
+  "title": "Press",
+  "description": "Welcome to EStore Inc's Press page. Here, you can find the latest news, press releases, and media resources about our company, products, and initiatives. If you're a member of the press or media looking for information or interviews, please review the content below and contact our press team for inquiries.",
+  "details": [
+    {
+      "title": "Company News",
+      "description": "Stay up-to-date with the latest news and announcements from EStore Inc, including product launches, corporate updates, and industry insights."
+    },
+    {
+      "title": "Press Releases",
+      "description": "Access our press releases archive to learn about significant events, partnerships, milestones, and announcements from EStore Inc."
+    },
+    {
+      "title": "Media Resources",
+      "description": "Download high-resolution images, logos, and other media assets for use in your press coverage of EStore Inc. Please adhere to our brand guidelines when using our assets."
+    },
+    {
+      "title": "Media Contact",
+      "description": "For press inquiries, interview requests, or media partnerships, please contact our press team at [press contact email/phone number]. We're available to assist you with any information or resources you may need."
+    },
+    {
+      "title": "About EStore Inc",
+      "description": "Learn more about EStore Inc, our mission, values, history, and leadership team. If you require additional information or have specific questions, please don't hesitate to reach out to our press team."
+    },
+    {
+      "title": "Recent Press Coverage",
+      "description": "Discover articles, reviews, and features about EStore Inc from leading media outlets and publications. Explore how our products and initiatives are making an impact in the industry and beyond."
+    },
+    {
+      "description": "Thank you for your interest in EStore Inc. We're committed to providing timely and accurate information to members of the press and media. Contact our press team for any further assistance or inquiries."
+    }
+  ]
+}
