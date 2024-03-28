@@ -1,0 +1,38 @@
+{
+  "type": "textOnly",
+  "title": "International Customers",
+  "description": "Welcome to EStore Inc's International Customers page. Whether you're located overseas or looking to ship internationally, we're here to assist you in navigating the process and ensuring a seamless shopping experience. Explore the information below to learn more about our international shipping policies, payment options, and additional services tailored for our global customers.",
+  "details": [
+    {
+      "title": "International Shipping",
+      "description": "We offer international shipping to many countries worldwide. Choose from various shipping options to suit your needs, and enjoy reliable delivery to your doorstep, no matter where you are."
+    },
+    {
+      "title": "Customs and Duties",
+      "description": "Please note that international orders may be subject to customs duties, taxes, and fees imposed by your country's customs authorities. These charges are the responsibility of the recipient and are not included in the order total or shipping costs."
+    },
+    {
+      "title": "Payment Methods",
+      "description": "We accept various payment methods for international orders, including credit/debit cards, PayPal, and bank transfers. Select your preferred payment option during checkout for a secure and convenient transaction."
+    },
+    {
+      "title": "Currency Conversion",
+      "description": "Prices displayed on our website are in [currency], but you can view prices in your local currency by selecting your country from the currency dropdown menu. Please note that currency conversion rates may vary and are determined by your payment provider."
+    },
+    {
+      "title": "Customer Support",
+      "description": "Our multilingual customer support team is here to assist you with any questions or concerns you may have about international shipping, payment methods, customs, or product inquiries. Contact us via email, phone, or live chat for personalized assistance."
+    },
+    {
+      "title": "Returns and Exchanges",
+      "description": "We understand that sometimes things don't go as planned. If you need to return or exchange an item, please review our Returns & Exchanges policy for international customers and contact our customer support team for assistance."
+    },
+    {
+      "title": "Additional Services",
+      "description": "In addition to shipping, we offer additional services for our international customers, including gift wrapping, personalized messaging, and expedited shipping options. Please contact us for more information about these services."
+    },
+    {
+      "description": "Thank you for choosing EStore Inc for your international shopping needs. We're dedicated to providing you with a seamless and enjoyable shopping experience, no matter where you are in the world. Contact us for any further assistance or inquiries."
+    }
+  ]
+}
