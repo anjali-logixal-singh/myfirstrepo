@@ -1,0 +1,46 @@
+{
+  "type": "textOnly",
+  "title": "FAQ",
+  "description": "Welcome to EStore Inc's Frequently Asked Questions (FAQ) page. Here, we've compiled answers to common inquiries about our products, services, and policies. If you can't find the information you're looking for, feel free to contact our customer support team for assistance.",
+  "details": [
+    {
+      "title": "How do I place an order?",
+      "description": "To place an order, simply browse our website, select the desired items, and proceed to checkout. Follow the prompts to enter your shipping address, payment information, and any additional details required to complete the purchase."
+    },
+    {
+      "title": "What payment methods do you accept?",
+      "description": "We accept various payment methods, including credit/debit cards, PayPal, and bank transfers. You can view all available payment options during checkout."
+    },
+    {
+      "title": "How can I track my order?",
+      "description": "Once your order has been shipped, you will receive a tracking number via email or SMS. Use this tracking number to monitor the status and location of your package on the carrier's website."
+    },
+    {
+      "title": "What is your return policy?",
+      "description": "Our return policy allows you to return eligible items within a specified period for a refund or exchange. Please refer to our Returns & Exchanges page for detailed information on eligibility criteria and the return process."
+    },
+    {
+      "title": "Do you offer international shipping?",
+      "description": "Yes, we offer international shipping to many countries worldwide. Additional shipping charges and delivery times may apply for international orders. Please see our Shipping Policy for more details."
+    },
+    {
+      "title": "How can I contact customer support?",
+      "description": "You can contact our customer support team via email at [contact email], by phone at [contact phone number], or through the live chat feature on our website. Our support agents are available to assist you during business hours."
+    },
+    {
+      "title": "Can I cancel my order?",
+      "description": "You may be able to cancel your order if it has not yet been processed for shipping. Please contact our customer support team as soon as possible to inquire about order cancellation."
+    },
+    {
+      "title": "Do you offer gift wrapping services?",
+      "description": "Yes, we offer gift wrapping services for select items. During checkout, you can choose to add gift wrapping to your order for an additional fee."
+    },
+    {
+      "title": "How do I reset my password?",
+      "description": "To reset your password, click on the 'Forgot Password' link on the login page. Follow the instructions to reset your password via email."
+    },
+    {
+      "description": "If you have any other questions or need further assistance, please don't hesitate to contact us. We're here to help!"
+    }
+  ]
+}
